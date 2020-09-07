@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphicJson", "PolymorphicJson\PolymorphicJson.csproj", "{B2F18D5F-4BF2-4C09-B204-249A920A1205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphicJson.Tests", "PolymorphicJson.Tests\PolymorphicJson.Tests.csproj", "{9F9B9189-0630-4B20-ACB3-5CD2E7D7F65D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F18D5F-4BF2-4C09-B204-249A920A1205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F18D5F-4BF2-4C09-B204-249A920A1205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F18D5F-4BF2-4C09-B204-249A920A1205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F18D5F-4BF2-4C09-B204-249A920A1205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9B9189-0630-4B20-ACB3-5CD2E7D7F65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9B9189-0630-4B20-ACB3-5CD2E7D7F65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9B9189-0630-4B20-ACB3-5CD2E7D7F65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9B9189-0630-4B20-ACB3-5CD2E7D7F65D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDB3F5D8-5BE8-4B54-BB4B-E0A0DF39011A}
+	EndGlobalSection
+EndGlobal
